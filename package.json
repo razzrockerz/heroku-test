@@ -1,5 +1,5 @@
 {
-  "name": "react-app",
+  "name": "heroku-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,18 @@
   "engines": {
     "node": "13.x"
   },
-  "proxy": "http://localhost:5001/"
+  "dis_proxy": "http://localhost:5001/",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "dis_main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razzrockerz/heroku-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razzrockerz/heroku-test/issues"
+  },
+  "homepage": "https://github.com/razzrockerz/heroku-test#readme"
 }
