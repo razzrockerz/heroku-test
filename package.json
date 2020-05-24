@@ -36,11 +36,11 @@
   "engines": {
     "node": "13.x"
   },
-  "dis_proxy": "http://localhost:5001/",
+  "disable_proxy": "http://localhost:5001/",
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "dis_main": "index.js",
-  "devDependencies": {},
-  "repository": {
+  "disable_main": "index.js",
+  "disable_devDependencies": {},
+  "disable_repository": {
     "type": "git",
     "url": "git+https://github.com/razzrockerz/heroku-test.git"
   },
@@ -49,5 +49,5 @@
   "bugs": {
     "url": "https://github.com/razzrockerz/heroku-test/issues"
   },
-  "homepage": "https://github.com/razzrockerz/heroku-test#readme"
+  "disable_homepage": "https://github.com/razzrockerz/heroku-test#readme"
 }
