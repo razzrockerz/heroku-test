@@ -44,10 +44,11 @@
     "type": "git",
     "url": "git+https://github.com/razzrockerz/heroku-test.git"
   },
-  "author": "",
+  "author": "Rajesh A <Rajesh.A@odessainc.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/razzrockerz/heroku-test/issues"
   },
-  "disable_homepage": "https://github.com/razzrockerz/heroku-test#readme"
+  "disable_homepage": "https://github.com/razzrockerz/heroku-test#readme",
+  "main": "index.js"
 }
